@@ -1,27 +1,37 @@
 ## Introduction
 
-## Main Point 1
+- Scott Intro
+- Kyle Intro
+- Relationship Intro
 
-### Key Point 1
+## Main Point 1: Targeting - Figuring Out What to Hunt
 
-### Key Point 2
+### Key Point 1: Threat Intel
 
-### Key Point 3
+### Key Point 2: "Vertical Based" Targeting
 
-## Main Point 2
+### Key Point 3: ?
 
-### Key Point 1
+## Main Point 2: The Hunt - Searching for Your Target
 
-### Key Point 2
+### Key Point 1: OSINT
 
-### Key Point 3
+### Key Point 2: Forensics & RE
 
-## Main Point 3
+### Key Point 3: ?
 
-### Key Point 1
+## Main Point 3: The Kill - Response
 
-### Key Point 2
+### Key Point 1: Internal IR
 
-### Key Point 3
+### Key Point 2: Dissemination
+
+### Key Point 3: ?
+
+## Conclusion/Review
 
 ## "Outroduction"
+
+- Sources & Thanks
+- Contact Information
+- ???
