@@ -2,7 +2,6 @@
 
 
 
-
 == Presenters Name ==
 
 Scott Roberts and Kyle Maxwell
@@ -41,7 +40,6 @@ Kyle Maxwell is a math smuggler and cyber mind flayer.
 
 We have not submitted or presented this material to any other conference.
 
-
 == Why is this a good fit for ShmooCon ==
 
 
@@ -55,3 +53,4 @@ Yes
 
 == List of facilities requested ==
 
+Nothing special
