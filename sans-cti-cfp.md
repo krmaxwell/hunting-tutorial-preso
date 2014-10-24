@@ -13,8 +13,7 @@ Kyle Maxwell is a threat intelligence analyst and malware researcher, currently 
 
 - Abstract
 
-Threat intelligence analysis seems like something of a black art to many people. We intend to demystify it a bit and show how hackers can uncover international criminal conspiracies and cyber spy rings from the comfort of their own caffeine delivery systems & data manipulation pods. We discuss targeting based on existing intelligence and verticals. This leads naturally to a discussion of hunting via OSINT, forensics, and reverse engineering. We also discuss appropriate response efforts in terms of internal incident response and external sharing with other organizations. Open source tools and methodologies will be discussed so that attendees can begin implementing these techniques immediately.
-
+Threat intelligence analysis seems like something of a black art to many people. We intend to demystify it a bit and show how hackers can uncover international criminal conspiracies and cyber spy rings from the comfort of their own caffeine delivery systems & electronic display pods. We discuss targeting based on existing intelligence and verticals. This leads naturally to a discussion of hunting via OSINT, forensics, and reverse engineering as well as tools and systems to enhance hunting effectiveness. We also discuss appropriate response efforts in terms of internal incident response and external sharing with other organizations.
 
 - Twitter Handle: @sroberts and @kylemaxwell
 - Google+: n/a
