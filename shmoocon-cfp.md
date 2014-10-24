@@ -22,7 +22,8 @@ Kyle Maxwell is a threat intelligence analyst and malware researcher, currently 
 - Places to start
   - "Threat Information" (We'll talk about making it Intelligence)
   - Public reports
-  - Honeypots
+  - Existing caseload
+  - Honeypots and logs
 - What to analyze
   - Check hashes in public malware repos
   - Passive DNS data on IPs / domains
@@ -40,7 +41,7 @@ Kyle Maxwell is a threat intelligence analyst and malware researcher, currently 
 
 ## List of other conferences
 
-We have not submitted or presented this material to any other conference.
+We have submitted a version of this material to SANS CTI Summit, which takes place two weeks after Shmoocon.
 
 ## Why is this a good fit for ShmooCon
 
