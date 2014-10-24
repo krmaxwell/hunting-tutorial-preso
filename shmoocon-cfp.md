@@ -12,9 +12,7 @@ Threat intelligence analysis seems like something of a black art to many people.
 
 == Bio ==
 
-Scott Roberts is a bad-guy catcher at GitHub and a scotch snob.
-
-> Scott J Roberts works for GitHub and makes up his title every time he’s asked, so we’ll say he’s the Director of Bad Guy Catching. He has worked for 900lbs security gorillas, government security giants & boutiques, and financial services security firms and done his best to track down bad guys at all these places. He’s released and contributed to multiple tools for threat intelligence and malware analysis. Scott is also really good at speaking in the 3rd person.
+Scott J Roberts works for GitHub and makes up his title every time he’s asked, so we’ll say he’s the Director of Bad Guy Catching. He has worked for 900lbs security gorillas, government security giants & boutiques, and financial services security firms and done his best to track down bad guys at all these places. He’s released and contributed to multiple tools for threat intelligence and malware analysis. Scott is also really good at speaking in the 3rd person.
 
 Kyle Maxwell is a math smuggler and cyber mind flayer.
 
@@ -48,7 +46,7 @@ We believe that many people unintentionally misuse the term "threat intelligence
 
 Kyle has presented at many conferences including DEF CON, Black Hat, various SANS conferences, and BSides across the US.
 
-Scott has presented to the National Security Council on matters of species survival.
+Scott has presented at ShmooCon (in 2007), SummerCon, GFIRST, BayThreat, ArchCon, multiple BSides conferences, as well as events for Facebook & OpenDNS.
 
 == Proceedings ==
 
