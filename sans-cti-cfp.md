@@ -2,7 +2,9 @@
 - Author Name(s): Scott Roberts and Kyle Maxwell
 - Author Title: Scott Roberts - Bad Guy Catcher. Kyle Maxwell - Senior Researcher.
 - Company: GitHub (Scott) and Verisign iDefense (Kyle)
-- Speaker Contact Information: 127 W Harvard Dr, Garland, TX 75041 // 214-233-5953 // krmaxwell@gmail.com 
+- Speaker Contact Information:
+  - 127 W Harvard Dr, Garland, TX 75041 // 214-233-5953 // krmaxwell@gmail.com
+  - 1622 E Hubbard Ave, Columbus, OH 43215 // 703-254-4786 // sroberts@github.com
 - Biography
 
 Scott J Roberts works for GitHub and makes up his title every time he’s asked, so we’ll say he’s the Director of Bad Guy Catching. He has worked for 900lbs security gorillas, government security giants & boutiques, and financial services security firms and done his best to track down bad guys at all these places. He’s released and contributed to multiple tools for threat intelligence and malware analysis. Scott is also really good at speaking in the 3rd person.
@@ -17,5 +19,6 @@ Threat intelligence analysis seems like something of a black art to many people.
 - Google+: n/a
 - Facebook: n/a
 - Blog: http://sroberts.github.io
-- YouTube videos featuring you speaking: 
+- YouTube videos featuring you speaking:
   - https://www.youtube.com/watch?v=JxJaCIzzFzg and https://www.youtube.com/watch?v=yG6QlHOAWiE (Kyle)
+  - https://www.youtube.com/watch?v=PFvI0m_JkDE (Scott)
