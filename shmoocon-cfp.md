@@ -21,6 +21,7 @@ Kyle Maxwell is a threat intelligence analyst and malware researcher, currently 
 
 - Places to start
   - "Threat Information" (We'll talk about making it Intelligence)
+  - "Vertical Driven" Targeting
   - Public reports
   - Existing caseload
   - Honeypots and logs
