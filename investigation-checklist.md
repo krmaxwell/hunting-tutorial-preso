@@ -18,6 +18,7 @@
     - [ ] [SARVAM](http://sarvam.ece.ucsb.edu/home)
     - [ ] [VirusTotal](https://www.virustotal.com) - If accessible
     - [ ] [VirusShare](http://virusshare.com)
+    - [ ] [Totalhash](http://totalhash.com)
 - [ ] WHOIS history via [DomainTools](http://domaintools.com)
 
 ### Deconflict
