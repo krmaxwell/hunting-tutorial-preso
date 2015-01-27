@@ -99,6 +99,7 @@ A process that combines IR Operations & Threat Intelligence
 
 ### Key Point 2: Forensics & RE
 
+
 ### Key Point 3: ?
 
 ## Main Point 3: The Kill - Response (Kyle)
@@ -159,6 +160,7 @@ A process that combines IR Operations & Threat Intelligence
 
 #### Slide: Audience - Full disclosure style
 
+
 ## Conclusion/Review
 - Target -> Hunt -> Kill -> Stories -> Repeat
 
@@ -167,3 +169,29 @@ A process that combines IR Operations & Threat Intelligence
 - Sources & Thanks
 - Contact Information
 - Thanks
+- ???
+
+---
+
+## Detailed Outline (Shmoo)
+
+- Places to start
+  - "Threat Information" (We'll talk about making it Intelligence)
+  - "Vertical Driven" Targeting
+  - Public reports
+  - Existing caseload
+  - Honeypots and logs
+- What to analyze
+  - Check hashes in public malware repos
+  - Passive DNS data on IPs / domains
+  - Historical WHOIS
+- How to keep tracking
+  - Threat "library"
+  - Alerting types
+    - Web Monitoring Systems
+    - Malware & Network Monitoring
+    - Traditional Security Infrastructure
+- Work with fellow hunters
+  - Internal Sharing
+  - Trust groups
+  - Full disclosure style

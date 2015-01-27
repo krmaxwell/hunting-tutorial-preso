@@ -1,3 +1,5 @@
+# ACCEPTED!!!
+
 - Title of Proposed Talk: The Most Dangerous Game: Hunting adversaries across the Internet
 - Author Name(s): Scott Roberts and Kyle Maxwell
 - Author Title: Scott Roberts - Bad Guy Catcher. Kyle Maxwell - Senior Researcher.
